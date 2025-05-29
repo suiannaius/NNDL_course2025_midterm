@@ -1,6 +1,6 @@
 ## 数据准备
 ### 数据下载
-`python data_downlaod.py`
+`python data_download.py`
 ### 格式转化
 `python voc2coco.py`
 ## 训练
