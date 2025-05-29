@@ -10,7 +10,7 @@
 `python train.py`
 ### 保存权重
 `python save_weights.py`
-## 测试
-`python inference.py`
 ### 可视化
 `python vis.py`
+## 测试
+`python inference.py`
