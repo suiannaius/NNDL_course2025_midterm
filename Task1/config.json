@@ -1,0 +1,6 @@
+{
+    "num_epochs": 15,
+    "lr_fc": 0.001,
+    "lr_frozen": 0.0001,
+    "use_pretrain": false
+}
